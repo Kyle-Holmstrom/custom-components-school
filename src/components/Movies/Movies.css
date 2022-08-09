@@ -1,0 +1,6 @@
+.movieList > li {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}

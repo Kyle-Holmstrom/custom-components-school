@@ -1,0 +1,17 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+ul, li {
+  display: inline-block; 
+  padding: 0 2rem;
+}
+
+body {
+  background-image: linear-gradient(to bottom, skyblue, teal);
+  width: 100vw;
+  height: 100vh;
+}
